@@ -1,16 +1,2 @@
-# my_wallet_app_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+My_Wallet_App_UI
+![wallet](https://user-images.githubusercontent.com/71192958/182784378-eb98a38f-8e1a-4c3f-ac0a-fb43b6ff0d9d.jpeg)
